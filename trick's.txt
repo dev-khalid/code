@@ -1,0 +1,2 @@
+Sort: 
+  1.if any element's is swapalbe in an array  then we can sort the arry.
